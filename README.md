@@ -8,9 +8,9 @@ Steps to run:
    b. I used the thisisunsafe method.
   
 Notes:
+* The app uses ASP.NET Web API for the API and React.js for the user interface.
 * These are the API endpoints:
   - api/money/getendpointone
   - api/money/getendpointtwo
-
 * The values for the 2nd endpoint are hardcoded.
 * Have fun.
